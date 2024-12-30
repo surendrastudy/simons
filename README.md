@@ -5,8 +5,6 @@ A simple and fun **Simon Game** built with HTML, CSS, and JavaScript. The game c
 ### Demo:
 - [Live Demo on Netlify](https://simons2.netlify.app/)
 
-### Repository:
-- [GitHub Repository](https://github.com/surendrastudy/simons)
 
 ## Features
 - Simple and intuitive user interface.
